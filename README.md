@@ -5,7 +5,7 @@ Aura is a multimodal, voice-first AI assistant designed to be your personal comm
 The platform integrates low-latency voice communication, advanced AI function calling, and a sleek, futuristic frontend to create an immersive and powerful user experience.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dheeraj-appaji/AURA/main/frontend/public/AURA.png" width="150" alt="Aura Logo" />
+  <img src="assets/logo.png" width="150" alt="Aura Logo" />
 </p>
 
 <p align="center">
@@ -46,15 +46,14 @@ The platform integrates low-latency voice communication, advanced AI function ca
 ---
 
 ## 📸 Screenshots
-<p align="center"><img src="https://raw.githubusercontent.com/dheeraj-appaji/AURA/main/frontend/public/demo.gif" alt="Aura Demo GIF"/> </p> 
 <table> 
   <tr> 
     <td align="center"><strong>Welcome Screen</strong></td> 
     <td align="center"><strong>Session View</strong></td> 
   </tr> 
   <tr> 
-    <td width="50%"><img src="https://raw.githubusercontent.com/dheeraj-appaji/AURA/main/frontend/public/welcome.png" alt="Aura Welcome Screen" /></td> 
-    <td width="50%"><img src="https://raw.githubusercontent.com/dheeraj-appaji/AURA/main/frontend/public/session.png" alt="Aura Session Interface" /></td> 
+    <td width="50%"><img src="assets/Landing_Page.png" alt="Aura Welcome Screen" /></td> 
+    <td width="50%"><img src="assets/Working_Model.png" alt="Aura Session Interface" /></td> 
   </tr> 
 </table>
 

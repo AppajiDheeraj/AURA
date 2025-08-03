@@ -105,7 +105,7 @@ The project is divided into two main parts: `backend` and `frontend`.
 
 6.  **Run the Agent Worker:**
     ```bash
-    python main.py start
+    python main.py dev
     ```
 
 ### Frontend Setup (The Web App)
@@ -115,9 +115,9 @@ The project is divided into two main parts: `backend` and `frontend`.
     cd frontend
     ```
 
-2.  **Install dependencies (using pnpm):**
+2.  **Install dependencies (using npm):**
     ```bash
-    pnpm install
+    npm install
     ```
 
 3.  **Configure Environment Variables:**
@@ -131,7 +131,7 @@ The project is divided into two main parts: `backend` and `frontend`.
 
 4.  **Start the development server:**
     ```bash
-    pnpm dev
+    npm run dev
     ```
     Open [http://localhost:3000](http://localhost:3000 ) in your browser to begin a session.
 
@@ -139,6 +139,7 @@ The project is divided into two main parts: `backend` and `frontend`.
 
 ## 📁 Project Structure
 
+```
 AURA/
 ├── backend/
 │   ├── tools/              # All Python tool definitions (system, web, etc.)
@@ -157,6 +158,7 @@ AURA/
 ├── app-config.ts       # App branding and feature configuration
 ├── package.json        # Frontend dependencies and scripts
 └── .env.local          # Frontend environment variables (gitignored)
+```
 
 ---
 

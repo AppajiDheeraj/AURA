@@ -1,0 +1,26 @@
+{
+  "morning_routine": [
+    {
+      "tool": "get_date_and_time",
+      "param": null
+    },
+    {
+      "tool": "get_system_status",
+      "param": null
+    },
+    {
+      "tool": "open_website",
+      "param": "gmail"
+    }
+  ],
+  "secure_and_leave": [
+    {
+      "tool": "empty_recycle_bin",
+      "param": null
+    },
+    {
+      "tool": "lock_computer",
+      "param": null
+    }
+  ]
+}

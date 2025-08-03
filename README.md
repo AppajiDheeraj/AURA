@@ -159,6 +159,31 @@ AURA/
 ├── package.json        # Frontend dependencies and scripts
 └── .env.local          # Frontend environment variables (gitignored)
 ```
+---
+
+## 🗺️ Roadmap & Future Improvements
+
+Aura is an actively developing project with an ambitious roadmap. The goal is to expand its capabilities to become an even more integrated and intelligent assistant. Here are some of the key features planned for future releases:
+
+-   **[ ] 👁️ Live Camera Vision & Object Detection**
+    -   Enable Aura to access the live camera feed to identify objects, read text from the physical world, and describe the user's surroundings in real-time.
+
+-   **[ ] 🖥️ Enhanced Screen Interaction**
+    -   Go beyond just describing the screen by allowing Aura to take actions based on visual context, such as clicking buttons or filling out forms.
+
+-   **[ ] ✅ Interactive To-Do List Management**
+    -   Allow users to create, manage, and check off tasks on a to-do list using voice commands. Aura will provide reminders and summaries of pending items.
+
+-   **[ ] 📄 Chat with PDF Documents**
+    -   Implement functionality for users to upload a PDF document and have a conversation with Aura about its contents, asking it to summarize sections, find information, or answer specific questions.
+
+-   **[ ] 📺 YouTube Video Summarization**
+    -   Give Aura the ability to accept a YouTube URL and provide a concise summary of the video's content, saving the user time.
+
+-   **[ ] 💡 Advanced Content Generation**
+    -   Expand on the core AI to allow for more complex creative tasks, such as converting a spoken idea into a structured blog post or generating code snippets on command.
+
+Contributions to help build these features are highly welcome! Please see the [open issues](https://github.com/your-username/AURA/issues ) to get involved.
 
 ---
 
